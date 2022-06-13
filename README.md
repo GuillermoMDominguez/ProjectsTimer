@@ -1,5 +1,5 @@
 # Projects Watch
-A minimal CLI tool for keeping track of time spend on sideprojects. Works with Python 3.7+
+A minimal CLI tool for keeping track of time spent on sideprojects. Works with Python 3.7+
 
 # Usage
 Run this tool with python3 on the command line, type "help" to see available commands. Type "new (name of project)" to
