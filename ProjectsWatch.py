@@ -2,7 +2,7 @@
 """
 Created on Sat May 14 17:55:49 2022
 
-@author: guill
+@author: Guillermo Muñoz Domínguez
 """
 #Requires Python 3.7+
 from dataclasses import dataclass
